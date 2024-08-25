@@ -2,7 +2,7 @@
 //1D Array Input Output
   
 import java.util.Scanner;
-public class Main {
+public class 1DArrayInputOutput {
     
     public static void main(String[] args) {
         
