@@ -1,5 +1,6 @@
 
-//Array.toString() Methord
+//Arrays.toString() Methord
+
 import java.util.Arrays;
 
 public class toStringMethod{
